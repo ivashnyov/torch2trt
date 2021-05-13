@@ -28,7 +28,7 @@ from .compare import *
 from .div import *
 from .expand import *
 from .floordiv import *
-from .getitem import *
+# from .getitem import *
 from .identity import *
 from .instance_norm import *
 from .interpolate import *
